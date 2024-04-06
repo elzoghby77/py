@@ -59,9 +59,9 @@ f2ab.pack(side=RIGHT)
 
 # ============================ Configuration set background black ==================================================
 
-Tops.configure(background='black')
-f1.configure(background='black')
-f2.configure(background='black')
+Tops.configure(background='white')
+f1.configure(background='white')
+f2.configure(background='white')
 
 # =========================================== Label Set on Top to Restaurant MS =================================
 
